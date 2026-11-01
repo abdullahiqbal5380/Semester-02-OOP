@@ -1,0 +1,7 @@
+C:\Users\wajid\OneDrive\Desktop\Semester-2\OOPS\Week-06\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.csproj.AssemblyReference.cache
+C:\Users\wajid\OneDrive\Desktop\Semester-2\OOPS\Week-06\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\wajid\OneDrive\Desktop\Semester-2\OOPS\Week-06\HotelManagementSystem\HotelManagementSystem\bin\Debug\HotelManagementSystem.exe.config
+C:\Users\wajid\OneDrive\Desktop\Semester-2\OOPS\Week-06\HotelManagementSystem\HotelManagementSystem\bin\Debug\HotelManagementSystem.exe
+C:\Users\wajid\OneDrive\Desktop\Semester-2\OOPS\Week-06\HotelManagementSystem\HotelManagementSystem\bin\Debug\HotelManagementSystem.pdb
+C:\Users\wajid\OneDrive\Desktop\Semester-2\OOPS\Week-06\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.exe
+C:\Users\wajid\OneDrive\Desktop\Semester-2\OOPS\Week-06\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.pdb
