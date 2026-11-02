@@ -3,15 +3,7 @@
   "WorkspaceRootPath": "C:\\Users\\wajid\\OneDrive\\Desktop\\Semester-2\\OOPS\\Week-06\\HotelManagementSystem\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FE137B9C-24D3-429E-A9FD-0616FEA923C9}|HotelManagementSystem\\HotelManagementSystem.csproj|C:\\Users\\wajid\\OneDrive\\Desktop\\Semester-2\\OOPS\\Week-06\\HotelManagementSystem\\hotelmanagementsystem\\booking\\bookingmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FE137B9C-24D3-429E-A9FD-0616FEA923C9}|HotelManagementSystem\\HotelManagementSystem.csproj|solutionrelative:hotelmanagementsystem\\booking\\bookingmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FE137B9C-24D3-429E-A9FD-0616FEA923C9}|HotelManagementSystem\\HotelManagementSystem.csproj|C:\\Users\\wajid\\OneDrive\\Desktop\\Semester-2\\OOPS\\Week-06\\HotelManagementSystem\\hotelmanagementsystem\\booking\\bookingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FE137B9C-24D3-429E-A9FD-0616FEA923C9}|HotelManagementSystem\\HotelManagementSystem.csproj|solutionrelative:hotelmanagementsystem\\booking\\bookingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FE137B9C-24D3-429E-A9FD-0616FEA923C9}|HotelManagementSystem\\HotelManagementSystem.csproj|C:\\Users\\wajid\\OneDrive\\Desktop\\Semester-2\\OOPS\\Week-06\\HotelManagementSystem\\hotelmanagementsystem\\booking\\bookingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{FE137B9C-24D3-429E-A9FD-0616FEA923C9}|HotelManagementSystem\\HotelManagementSystem.csproj|c:\\users\\wajid\\onedrive\\desktop\\semester-2\\oops\\week-06\\hotelmanagementsystem\\hotelmanagementsystem\\booking\\bookingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FE137B9C-24D3-429E-A9FD-0616FEA923C9}|HotelManagementSystem\\HotelManagementSystem.csproj|solutionrelative:hotelmanagementsystem\\booking\\bookingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -19,15 +11,11 @@
       "RelativeMoniker": "D:0:0:{FE137B9C-24D3-429E-A9FD-0616FEA923C9}|HotelManagementSystem\\HotelManagementSystem.csproj|solutionrelative:hotelmanagementsystem\\booking\\bookingui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FE137B9C-24D3-429E-A9FD-0616FEA923C9}|HotelManagementSystem\\HotelManagementSystem.csproj|C:\\Users\\wajid\\OneDrive\\Desktop\\Semester-2\\OOPS\\Week-06\\HotelManagementSystem\\hotelmanagementsystem\\guest\\guestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FE137B9C-24D3-429E-A9FD-0616FEA923C9}|HotelManagementSystem\\HotelManagementSystem.csproj|solutionrelative:hotelmanagementsystem\\guest\\guestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{FE137B9C-24D3-429E-A9FD-0616FEA923C9}|HotelManagementSystem\\HotelManagementSystem.csproj|C:\\Users\\wajid\\OneDrive\\Desktop\\Semester-2\\OOPS\\Week-06\\HotelManagementSystem\\hotelmanagementsystem\\guest\\guestrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FE137B9C-24D3-429E-A9FD-0616FEA923C9}|HotelManagementSystem\\HotelManagementSystem.csproj|solutionrelative:hotelmanagementsystem\\guest\\guestrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FE137B9C-24D3-429E-A9FD-0616FEA923C9}|HotelManagementSystem\\HotelManagementSystem.csproj|C:\\Users\\wajid\\OneDrive\\Desktop\\Semester-2\\OOPS\\Week-06\\HotelManagementSystem\\hotelmanagementsystem\\guest\\guestservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{FE137B9C-24D3-429E-A9FD-0616FEA923C9}|HotelManagementSystem\\HotelManagementSystem.csproj|c:\\users\\wajid\\onedrive\\desktop\\semester-2\\oops\\week-06\\hotelmanagementsystem\\hotelmanagementsystem\\guest\\guestservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FE137B9C-24D3-429E-A9FD-0616FEA923C9}|HotelManagementSystem\\HotelManagementSystem.csproj|solutionrelative:hotelmanagementsystem\\guest\\guestservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -35,28 +23,16 @@
       "RelativeMoniker": "D:0:0:{FE137B9C-24D3-429E-A9FD-0616FEA923C9}|HotelManagementSystem\\HotelManagementSystem.csproj|solutionrelative:hotelmanagementsystem\\guest\\guestui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FE137B9C-24D3-429E-A9FD-0616FEA923C9}|HotelManagementSystem\\HotelManagementSystem.csproj|C:\\Users\\wajid\\OneDrive\\Desktop\\Semester-2\\OOPS\\Week-06\\HotelManagementSystem\\hotelmanagementsystem\\room\\roomrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FE137B9C-24D3-429E-A9FD-0616FEA923C9}|HotelManagementSystem\\HotelManagementSystem.csproj|solutionrelative:hotelmanagementsystem\\room\\roomrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FE137B9C-24D3-429E-A9FD-0616FEA923C9}|HotelManagementSystem\\HotelManagementSystem.csproj|C:\\Users\\wajid\\OneDrive\\Desktop\\Semester-2\\OOPS\\Week-06\\HotelManagementSystem\\hotelmanagementsystem\\room\\roomservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{FE137B9C-24D3-429E-A9FD-0616FEA923C9}|HotelManagementSystem\\HotelManagementSystem.csproj|c:\\users\\wajid\\onedrive\\desktop\\semester-2\\oops\\week-06\\hotelmanagementsystem\\hotelmanagementsystem\\room\\roomservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FE137B9C-24D3-429E-A9FD-0616FEA923C9}|HotelManagementSystem\\HotelManagementSystem.csproj|solutionrelative:hotelmanagementsystem\\room\\roomservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FE137B9C-24D3-429E-A9FD-0616FEA923C9}|HotelManagementSystem\\HotelManagementSystem.csproj|C:\\Users\\wajid\\OneDrive\\Desktop\\Semester-2\\OOPS\\Week-06\\HotelManagementSystem\\hotelmanagementsystem\\room\\roomui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{FE137B9C-24D3-429E-A9FD-0616FEA923C9}|HotelManagementSystem\\HotelManagementSystem.csproj|c:\\users\\wajid\\onedrive\\desktop\\semester-2\\oops\\week-06\\hotelmanagementsystem\\hotelmanagementsystem\\room\\roomui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FE137B9C-24D3-429E-A9FD-0616FEA923C9}|HotelManagementSystem\\HotelManagementSystem.csproj|solutionrelative:hotelmanagementsystem\\room\\roomui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FE137B9C-24D3-429E-A9FD-0616FEA923C9}|HotelManagementSystem\\HotelManagementSystem.csproj|C:\\Users\\wajid\\OneDrive\\Desktop\\Semester-2\\OOPS\\Week-06\\HotelManagementSystem\\hotelmanagementsystem\\hotelui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FE137B9C-24D3-429E-A9FD-0616FEA923C9}|HotelManagementSystem\\HotelManagementSystem.csproj|solutionrelative:hotelmanagementsystem\\hotelui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FE137B9C-24D3-429E-A9FD-0616FEA923C9}|HotelManagementSystem\\HotelManagementSystem.csproj|C:\\Users\\wajid\\OneDrive\\Desktop\\Semester-2\\OOPS\\Week-06\\HotelManagementSystem\\hotelmanagementsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FE137B9C-24D3-429E-A9FD-0616FEA923C9}|HotelManagementSystem\\HotelManagementSystem.csproj|solutionrelative:hotelmanagementsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FE137B9C-24D3-429E-A9FD-0616FEA923C9}|HotelManagementSystem\\HotelManagementSystem.csproj|C:\\Users\\wajid\\OneDrive\\Desktop\\Semester-2\\OOPS\\Week-06\\HotelManagementSystem\\hotelmanagementsystem\\room\\roommodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FE137B9C-24D3-429E-A9FD-0616FEA923C9}|HotelManagementSystem\\HotelManagementSystem.csproj|solutionrelative:hotelmanagementsystem\\room\\roommodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -66,188 +42,110 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BookingUI.cs",
+              "DocumentMoniker": "C:\\Users\\wajid\\OneDrive\\Desktop\\Semester-2\\OOPS\\Week-06\\HotelManagementSystem\\HotelManagementSystem\\Booking\\BookingUI.cs",
+              "RelativeDocumentMoniker": "HotelManagementSystem\\Booking\\BookingUI.cs",
+              "ToolTip": "C:\\Users\\wajid\\OneDrive\\Desktop\\Semester-2\\OOPS\\Week-06\\HotelManagementSystem\\HotelManagementSystem\\Booking\\BookingUI.cs",
+              "RelativeToolTip": "HotelManagementSystem\\Booking\\BookingUI.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAJgAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-02T11:53:06.147Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RoomUI.cs",
+              "DocumentMoniker": "C:\\Users\\wajid\\OneDrive\\Desktop\\Semester-2\\OOPS\\Week-06\\HotelManagementSystem\\HotelManagementSystem\\Room\\RoomUI.cs",
+              "RelativeDocumentMoniker": "HotelManagementSystem\\Room\\RoomUI.cs",
+              "ToolTip": "C:\\Users\\wajid\\OneDrive\\Desktop\\Semester-2\\OOPS\\Week-06\\HotelManagementSystem\\HotelManagementSystem\\Room\\RoomUI.cs",
+              "RelativeToolTip": "HotelManagementSystem\\Room\\RoomUI.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-02T11:33:53.331Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 5,
+              "Title": "RoomService.cs",
+              "DocumentMoniker": "C:\\Users\\wajid\\OneDrive\\Desktop\\Semester-2\\OOPS\\Week-06\\HotelManagementSystem\\HotelManagementSystem\\Room\\RoomService.cs",
+              "RelativeDocumentMoniker": "HotelManagementSystem\\Room\\RoomService.cs",
+              "ToolTip": "C:\\Users\\wajid\\OneDrive\\Desktop\\Semester-2\\OOPS\\Week-06\\HotelManagementSystem\\HotelManagementSystem\\Room\\RoomService.cs",
+              "RelativeToolTip": "HotelManagementSystem\\Room\\RoomService.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAgwDAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-02T11:31:26.205Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GuestUI.cs",
+              "DocumentMoniker": "C:\\Users\\wajid\\OneDrive\\Desktop\\Semester-2\\OOPS\\Week-06\\HotelManagementSystem\\HotelManagementSystem\\Guest\\GuestUI.cs",
+              "RelativeDocumentMoniker": "HotelManagementSystem\\Guest\\GuestUI.cs",
+              "ToolTip": "C:\\Users\\wajid\\OneDrive\\Desktop\\Semester-2\\OOPS\\Week-06\\HotelManagementSystem\\HotelManagementSystem\\Guest\\GuestUI.cs",
+              "RelativeToolTip": "HotelManagementSystem\\Guest\\GuestUI.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-02T10:23:12.64Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GuestService.cs",
+              "DocumentMoniker": "C:\\Users\\wajid\\OneDrive\\Desktop\\Semester-2\\OOPS\\Week-06\\HotelManagementSystem\\HotelManagementSystem\\Guest\\GuestService.cs",
+              "RelativeDocumentMoniker": "HotelManagementSystem\\Guest\\GuestService.cs",
+              "ToolTip": "C:\\Users\\wajid\\OneDrive\\Desktop\\Semester-2\\OOPS\\Week-06\\HotelManagementSystem\\HotelManagementSystem\\Guest\\GuestService.cs",
+              "RelativeToolTip": "HotelManagementSystem\\Guest\\GuestService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAF4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-02T10:14:58.883Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "GuestRepository.cs",
               "DocumentMoniker": "C:\\Users\\wajid\\OneDrive\\Desktop\\Semester-2\\OOPS\\Week-06\\HotelManagementSystem\\HotelManagementSystem\\Guest\\GuestRepository.cs",
               "RelativeDocumentMoniker": "HotelManagementSystem\\Guest\\GuestRepository.cs",
               "ToolTip": "C:\\Users\\wajid\\OneDrive\\Desktop\\Semester-2\\OOPS\\Week-06\\HotelManagementSystem\\HotelManagementSystem\\Guest\\GuestRepository.cs",
               "RelativeToolTip": "HotelManagementSystem\\Guest\\GuestRepository.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBoAAAAVAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-27T16:59:43.351Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "GuestModel.cs",
-              "DocumentMoniker": "C:\\Users\\wajid\\OneDrive\\Desktop\\Semester-2\\OOPS\\Week-06\\HotelManagementSystem\\HotelManagementSystem\\Guest\\GuestModel.cs",
-              "RelativeDocumentMoniker": "HotelManagementSystem\\Guest\\GuestModel.cs",
-              "ToolTip": "C:\\Users\\wajid\\OneDrive\\Desktop\\Semester-2\\OOPS\\Week-06\\HotelManagementSystem\\HotelManagementSystem\\Guest\\GuestModel.cs",
-              "RelativeToolTip": "HotelManagementSystem\\Guest\\GuestModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-27T16:59:18.734Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "BookingUI.cs",
-              "DocumentMoniker": "C:\\Users\\wajid\\OneDrive\\Desktop\\Semester-2\\OOPS\\Week-06\\HotelManagementSystem\\HotelManagementSystem\\Booking\\BookingUI.cs",
-              "RelativeDocumentMoniker": "HotelManagementSystem\\Booking\\BookingUI.cs",
-              "ToolTip": "C:\\Users\\wajid\\OneDrive\\Desktop\\Semester-2\\OOPS\\Week-06\\HotelManagementSystem\\HotelManagementSystem\\Booking\\BookingUI.cs",
-              "RelativeToolTip": "HotelManagementSystem\\Booking\\BookingUI.cs",
-              "ViewState": "AgIAAEYAAAAAAAAAAAAkwHEAAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-27T20:21:57.199Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "BookingService.cs",
               "DocumentMoniker": "C:\\Users\\wajid\\OneDrive\\Desktop\\Semester-2\\OOPS\\Week-06\\HotelManagementSystem\\HotelManagementSystem\\Booking\\BookingService.cs",
               "RelativeDocumentMoniker": "HotelManagementSystem\\Booking\\BookingService.cs",
-              "ToolTip": "C:\\Users\\wajid\\OneDrive\\Desktop\\Semester-2\\OOPS\\Week-06\\HotelManagementSystem\\HotelManagementSystem\\Booking\\BookingService.cs",
-              "RelativeToolTip": "HotelManagementSystem\\Booking\\BookingService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAANAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\wajid\\OneDrive\\Desktop\\Semester-2\\OOPS\\Week-06\\HotelManagementSystem\\HotelManagementSystem\\Booking\\BookingService.cs*",
+              "RelativeToolTip": "HotelManagementSystem\\Booking\\BookingService.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-27T19:48:23.051Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "BookingRepository.cs",
-              "DocumentMoniker": "C:\\Users\\wajid\\OneDrive\\Desktop\\Semester-2\\OOPS\\Week-06\\HotelManagementSystem\\HotelManagementSystem\\Booking\\BookingRepository.cs",
-              "RelativeDocumentMoniker": "HotelManagementSystem\\Booking\\BookingRepository.cs",
-              "ToolTip": "C:\\Users\\wajid\\OneDrive\\Desktop\\Semester-2\\OOPS\\Week-06\\HotelManagementSystem\\HotelManagementSystem\\Booking\\BookingRepository.cs",
-              "RelativeToolTip": "HotelManagementSystem\\Booking\\BookingRepository.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBsAAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-27T17:53:30.459Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "BookingModel.cs",
-              "DocumentMoniker": "C:\\Users\\wajid\\OneDrive\\Desktop\\Semester-2\\OOPS\\Week-06\\HotelManagementSystem\\HotelManagementSystem\\Booking\\BookingModel.cs",
-              "RelativeDocumentMoniker": "HotelManagementSystem\\Booking\\BookingModel.cs",
-              "ToolTip": "C:\\Users\\wajid\\OneDrive\\Desktop\\Semester-2\\OOPS\\Week-06\\HotelManagementSystem\\HotelManagementSystem\\Booking\\BookingModel.cs",
-              "RelativeToolTip": "HotelManagementSystem\\Booking\\BookingModel.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAADwvxYAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-27T17:47:14.153Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "GuestService.cs",
-              "DocumentMoniker": "C:\\Users\\wajid\\OneDrive\\Desktop\\Semester-2\\OOPS\\Week-06\\HotelManagementSystem\\HotelManagementSystem\\Guest\\GuestService.cs",
-              "RelativeDocumentMoniker": "HotelManagementSystem\\Guest\\GuestService.cs",
-              "ToolTip": "C:\\Users\\wajid\\OneDrive\\Desktop\\Semester-2\\OOPS\\Week-06\\HotelManagementSystem\\HotelManagementSystem\\Guest\\GuestService.cs",
-              "RelativeToolTip": "HotelManagementSystem\\Guest\\GuestService.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAADwAAAAzAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-27T16:59:57.46Z",
+              "WhenOpened": "2026-11-02T11:02:28.145Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "GuestUI.cs",
-              "DocumentMoniker": "C:\\Users\\wajid\\OneDrive\\Desktop\\Semester-2\\OOPS\\Week-06\\HotelManagementSystem\\HotelManagementSystem\\Guest\\GuestUI.cs",
-              "RelativeDocumentMoniker": "HotelManagementSystem\\Guest\\GuestUI.cs",
-              "ToolTip": "C:\\Users\\wajid\\OneDrive\\Desktop\\Semester-2\\OOPS\\Week-06\\HotelManagementSystem\\HotelManagementSystem\\Guest\\GuestUI.cs",
-              "RelativeToolTip": "HotelManagementSystem\\Guest\\GuestUI.cs",
-              "ViewState": "AgIAAFAAAAAAAAAAAAAswFcAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-27T20:48:17.081Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "RoomRepository.cs",
-              "DocumentMoniker": "C:\\Users\\wajid\\OneDrive\\Desktop\\Semester-2\\OOPS\\Week-06\\HotelManagementSystem\\HotelManagementSystem\\Room\\RoomRepository.cs",
-              "RelativeDocumentMoniker": "HotelManagementSystem\\Room\\RoomRepository.cs",
-              "ToolTip": "C:\\Users\\wajid\\OneDrive\\Desktop\\Semester-2\\OOPS\\Week-06\\HotelManagementSystem\\HotelManagementSystem\\Room\\RoomRepository.cs",
-              "RelativeToolTip": "HotelManagementSystem\\Room\\RoomRepository.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAQwC8AAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-27T17:00:48.29Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "RoomService.cs",
-              "DocumentMoniker": "C:\\Users\\wajid\\OneDrive\\Desktop\\Semester-2\\OOPS\\Week-06\\HotelManagementSystem\\HotelManagementSystem\\Room\\RoomService.cs",
-              "RelativeDocumentMoniker": "HotelManagementSystem\\Room\\RoomService.cs",
-              "ToolTip": "C:\\Users\\wajid\\OneDrive\\Desktop\\Semester-2\\OOPS\\Week-06\\HotelManagementSystem\\HotelManagementSystem\\Room\\RoomService.cs",
-              "RelativeToolTip": "HotelManagementSystem\\Room\\RoomService.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB4AAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-27T17:00:34.042Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "RoomUI.cs",
-              "DocumentMoniker": "C:\\Users\\wajid\\OneDrive\\Desktop\\Semester-2\\OOPS\\Week-06\\HotelManagementSystem\\HotelManagementSystem\\Room\\RoomUI.cs",
-              "RelativeDocumentMoniker": "HotelManagementSystem\\Room\\RoomUI.cs",
-              "ToolTip": "C:\\Users\\wajid\\OneDrive\\Desktop\\Semester-2\\OOPS\\Week-06\\HotelManagementSystem\\HotelManagementSystem\\Room\\RoomUI.cs",
-              "RelativeToolTip": "HotelManagementSystem\\Room\\RoomUI.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-27T20:31:50.84Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
               "Title": "HotelUI.cs",
               "DocumentMoniker": "C:\\Users\\wajid\\OneDrive\\Desktop\\Semester-2\\OOPS\\Week-06\\HotelManagementSystem\\HotelManagementSystem\\HotelUI.cs",
               "RelativeDocumentMoniker": "HotelManagementSystem\\HotelUI.cs",
               "ToolTip": "C:\\Users\\wajid\\OneDrive\\Desktop\\Semester-2\\OOPS\\Week-06\\HotelManagementSystem\\HotelManagementSystem\\HotelUI.cs",
               "RelativeToolTip": "HotelManagementSystem\\HotelUI.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAJgAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAJkAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-27T20:47:22.839Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\wajid\\OneDrive\\Desktop\\Semester-2\\OOPS\\Week-06\\HotelManagementSystem\\HotelManagementSystem\\Program.cs",
-              "RelativeDocumentMoniker": "HotelManagementSystem\\Program.cs",
-              "ToolTip": "C:\\Users\\wajid\\OneDrive\\Desktop\\Semester-2\\OOPS\\Week-06\\HotelManagementSystem\\HotelManagementSystem\\Program.cs",
-              "RelativeToolTip": "HotelManagementSystem\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-27T16:58:01.826Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "RoomModel.cs",
-              "DocumentMoniker": "C:\\Users\\wajid\\OneDrive\\Desktop\\Semester-2\\OOPS\\Week-06\\HotelManagementSystem\\HotelManagementSystem\\Room\\RoomModel.cs",
-              "RelativeDocumentMoniker": "HotelManagementSystem\\Room\\RoomModel.cs",
-              "ToolTip": "C:\\Users\\wajid\\OneDrive\\Desktop\\Semester-2\\OOPS\\Week-06\\HotelManagementSystem\\HotelManagementSystem\\Room\\RoomModel.cs",
-              "RelativeToolTip": "HotelManagementSystem\\Room\\RoomModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-27T17:00:23.904Z",
               "EditorCaption": ""
             }
           ]

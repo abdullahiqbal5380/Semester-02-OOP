@@ -32,5 +32,21 @@ namespace HotelManagementSystem.Room
 
             return null;
         }
+
+        public List<RoomModel> Rooms(int minroom, int maxroom)
+        {
+            List<RoomModel> rooms = _roomRepository.LoadData();
+            List<RoomModel> Room = new List<RoomModel>();
+
+            foreach(RoomModel room in rooms)
+            {
+                if (room.roomNumber >= minroom && room.roomNumber <= maxroom)
+                {
+                    Room.Add(room);
+                }
+            }
+            return Room;
+        }
     }
+
 }

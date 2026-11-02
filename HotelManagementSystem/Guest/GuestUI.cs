@@ -73,6 +73,15 @@ namespace HotelManagementSystem.Guest
                 Console.WriteLine(guest.GuestId + "\t" + guest.GuestName + "\t\t" + guest.ContactNo);
             }
         }
+        public void ShowAllGuestsSorted()
+        {
+            List<GuestModel> guests = guestService.SortGuestsById();
+
+            foreach (GuestModel guest in guests)
+            {
+                Console.WriteLine(guest.GuestId + "\t" + guest.GuestName + "\t\t" + guest.ContactNo);
+            }
+        }
         public void SearchGuest()
         {
             Console.Write("Enter Guest ID: ");
@@ -114,5 +123,12 @@ namespace HotelManagementSystem.Guest
             Console.WriteLine("Guest updated.");
         }
 
+        public void Name()
+        {
+            Console.WriteLine("Enter the name:");
+            string name = Console.ReadLine();
+            
+            guestService.searchName(name);
+        }
     }
 }

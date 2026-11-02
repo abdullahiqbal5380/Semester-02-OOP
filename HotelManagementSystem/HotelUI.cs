@@ -97,13 +97,15 @@ namespace HotelManagementSystem.Guest
 
                 Console.WriteLine("======= ADMIN MENU =======");
                 Console.WriteLine("1. Show All Guests");
-                Console.WriteLine("2. Show All Bookings");
-                Console.WriteLine("3. Search Guest");
-                Console.WriteLine("4. Update Guest Record");
-                Console.WriteLine("5. Check-out Guest");
-                Console.WriteLine("6. View Room Availability");
-                Console.WriteLine("7. Generate Revenue Report");
-                Console.WriteLine("8. Logout");
+                Console.WriteLine("2. Show All Guests by sorting");
+                Console.WriteLine("3. Show All Bookings");
+                Console.WriteLine("4. Search Guest");
+                Console.WriteLine("5. Update Guest Record");
+                Console.WriteLine("6. Check-out Guest");
+                Console.WriteLine("7. View Room Availability");
+                Console.WriteLine("8. Generate Revenue Report");
+                Console.WriteLine("9. Filter records");
+                Console.WriteLine("10. Logout");
                 Console.Write("Enter choice: ");
 
                 choice = Console.ReadLine();
@@ -114,29 +116,37 @@ namespace HotelManagementSystem.Guest
                 }
                 else if (choice == "2")
                 {
-                    bookingUI.ShowAllBookings();
+                    guestUI.ShowAllGuestsSorted();   
                 }
                 else if (choice == "3")
                 {
-                    guestUI.SearchGuest();
+                    bookingUI.ShowAllBookings();
                 }
                 else if (choice == "4")
                 {
-                    guestUI.UpdateGuest();
+                    guestUI.SearchGuest();
                 }
                 else if (choice == "5")
                 {
-                    bookingUI.CheckoutGuest();
+                    guestUI.UpdateGuest();
                 }
                 else if (choice == "6")
                 {
-                    roomUI.ShowRoomAvailability();
+                    bookingUI.CheckoutGuest();
                 }
                 else if (choice == "7")
                 {
-                    bookingUI.GenerateRevenueReport();
+                    roomUI.ShowRoomAvailability();
                 }
                 else if (choice == "8")
+                {
+                    bookingUI.GenerateRevenueReport();
+                }
+                else if (choice == "9")
+                {
+                    roomUI.filterRecords();
+                }
+                else if (choice == "10")
                 {
                     Console.WriteLine("Logged out.");
                     break;

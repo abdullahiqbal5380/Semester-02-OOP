@@ -3,6 +3,7 @@ using HotelManagementSystem.Room;
 using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Net.NetworkInformation;
 using System.Text;
 using System.Threading.Tasks;
 
@@ -26,7 +27,6 @@ namespace HotelManagementSystem.Booking
 
         public bool Booking(BookingModel booking)
         {
-            // Check whether the guest exists
             GuestModel guest = _guestService.SearchGuest(booking.guestId);
 
             if (guest == null)
@@ -35,27 +35,25 @@ namespace HotelManagementSystem.Booking
                 return false;
             }
 
-            // Check the number of nights
             if (booking.Nights <= 0)
             {
                 Console.WriteLine("Invalid number of nights!");
                 return false;
             }
 
-            // Save the booking
             _repository.SaveData(booking);
             return true;
         }
 
         public bool Checkout(string id)
         {
-            if(_guestService.SearchGuest(id) == null)
+            if (_guestService.SearchGuest(id) == null)
             {
                 return false;
             }
 
             List<BookingModel> bookings = _repository.LoadData();
-           
+
             for (int i = 0; i < bookings.Count; i++)
             {
                 if (bookings[i].guestId == id)
@@ -68,7 +66,7 @@ namespace HotelManagementSystem.Booking
             _repository.SaveAllBookings(bookings);
             _guestService.RemoveGuest(id);
             return true;
-            
+
         }
         public bool isRoomBooked(int roomNumber)
         {
@@ -100,5 +98,54 @@ namespace HotelManagementSystem.Booking
             }
             return revenue;
         }
+
+        public void filter(string status)
+        {
+            List<RoomModel> rooms = _roomService.GetAllRooms();
+
+            List<RoomModel> booked = new List<RoomModel>();
+            List<RoomModel> available = new List<RoomModel>();
+
+            Console.WriteLine("Room No\tRoom Type\tStatus");
+
+            bool found = false;
+
+            foreach (RoomModel room in rooms)
+            {
+                if (status == "Booked" || status == "booked")
+                {
+                    if (isRoomBooked(room.roomNumber))
+                    {
+                        booked.Add(room);
+                        found = true;
+                    }
+                }
+
+                else if (status == "Available" || status == "available")
+                {
+                    if (!isRoomBooked(room.roomNumber))
+                    {
+                        available.Add(room);
+                        found = false;
+                    }
+                }
+                if (found == true)
+                {
+                    foreach (RoomModel book in booked)
+                    {
+                        Console.WriteLine(room.roomNumber + "\t" + room.roomType + "\t\t" + status);
+                    }
+                }
+                if (found == false)
+                {
+                    foreach (RoomModel avail in available)
+                    {
+                        Console.WriteLine(room.roomNumber + "\t" + room.roomType + "\t\t" + status);
+                    }
+
+                }
+            }
+        }
+
     }
 }

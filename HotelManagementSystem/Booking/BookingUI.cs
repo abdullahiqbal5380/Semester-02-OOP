@@ -144,5 +144,14 @@ namespace HotelManagementSystem.Booking
                 Console.WriteLine(booking.guestId + "\t\t" + booking.roomNumber + "\t" + booking.Nights);
             }
         }
+
+        public void Status()
+        {
+            Console.WriteLine("Enter the Status you want to check rooms (Booked or Available):");
+            string status = Console.ReadLine();
+
+            _service.filter(status);
+           
+        }
     }
 }

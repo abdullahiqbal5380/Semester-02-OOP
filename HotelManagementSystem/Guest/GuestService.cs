@@ -21,6 +21,24 @@ namespace HotelManagementSystem.Guest
         {
             _guestRepository.SaveData(guest);
         }
+        public List<GuestModel> SortGuestsById()
+        {
+            List<GuestModel> sortGuests = _guestRepository.LoadData();
+            for(int i=0; i<sortGuests.Count - 1; i++)
+            {
+                for(int j=0; j<sortGuests.Count - 1 - i; j++)
+                {
+                    if (int.Parse(sortGuests[j].GuestId) > int.Parse(sortGuests[j + 1].GuestId))
+                    {
+                        GuestModel temp = sortGuests[j];
+                        sortGuests[j] = sortGuests[j + 1];
+                        sortGuests[j + 1] = temp;
+                    }
+                }
+            }
+            _guestRepository.SaveAllGuests(sortGuests);
+            return sortGuests;
+        }
         public GuestModel SearchGuest(string id)
         {
             List<GuestModel> guests = _guestRepository.LoadData();
@@ -59,6 +77,19 @@ namespace HotelManagementSystem.Guest
                 }
             }
             _guestRepository.SaveAllGuests(guests);
+        }
+
+        public GuestModel searchName(string name)
+        {
+            List<GuestModel> guests = _guestRepository.LoadData();
+            foreach(GuestModel guest in guests)
+            {
+                if(name == guest.GuestName)
+                {
+                    return guest;
+                }
+            }
+            return null;
         }
     }
 }
